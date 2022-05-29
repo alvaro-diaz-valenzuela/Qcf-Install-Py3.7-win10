@@ -1,3 +1,9 @@
+# My Own
+
+.DS_Store
+.idea/
+qc_financial/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
